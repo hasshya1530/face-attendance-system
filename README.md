@@ -79,3 +79,4 @@ face_attendance_system/
 │
 ├── requirements.txt
 └── README.md
+# face-attendance-system
