@@ -1,5 +1,6 @@
 # Face Authentication Attendance System
 
+Deployed on : https://face-attendance-system-ebpgkc8qodzxdcrcwfmnyg.streamlit.app
 ## Overview
 This project implements a **real-time face authentication–based attendance system** using a live camera feed.  
 It allows users to **register their face**, **authenticate identity**, and automatically mark **Punch-In** and **Punch-Out** attendance.
